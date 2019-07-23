@@ -1,7 +1,6 @@
 .DS_Store
 *.log
 node_modules/
-index.json
 hedges.js
 hedges.min.js
 yarn.lock
