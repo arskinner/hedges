@@ -15,179 +15,57 @@
 
 % HedgeCounter
 
-largely
-generally
-often
-rarely
-sometimes
-frequently
-occasionally
-seldom
-usually
-most
-several
-some
-almost
-practically
-apparently
-virtually
-basically
-approximately
-roughly
-somewhat
-somehow
-partially
-actually
-like
-something
-someone
-somebody
-somewhere
-think
-thinks
-thought
-believe
-believed
-believes
-consider
-considers
-considered
-assume
-assumes
-assumed
-understand
-understands
-understood
-find
-found
-finds
-appear
-appears
-appeared
-seem
-seems
-seemed
-suppose
-supposes
-supposed
-guess
-guesses
-guessed
-estimate
-estimates
-estimated
-speculate
-speculates
-speculated
-suggest
-suggests
-suggested
-may
-could
-should
-might
-surely
-probably
-likely
-maybe
-perhaps
-unsure
-probable
-unlikely
-possibly
-possible
-read
-say
-says
-looks like
-look like
-don't know
-necessarily
-kind of
-much
-bunch
-couple
-few
-little
-really
+a bit
+almost never
+always
 and all that
 and so forth
-et cetera
-in my mind
-in my opinion
-their impression
-my impression
-in my understanding
-my thinking is
-my understanding is
-in my view
-if i'm understanding you correctly
-something or other
-so far
-at least
-
-% english-language-skills
-
-about
-around
-can
-effectively
-evidently
-fairly
-hopefully
-in general
-mainly
-more or less
-mostly
-overall
-presumably
-
-% Such as, pretty strong, pretty weak
-pretty
-quite clearly
-quite
-rather
-sort of
-supposedly
-
-
-% uefap
-
-tend
+apparent
+apparently
 appear to be
-doubt
+basically
 be sure
-indicate
-will
-must
-would
-certainly
-definitely
+bunch
 clearly
 conceivably
-certain
-definite
-clear
-assumption
-possibility
-probability
-
-% Others:
-
-many
-almost never
-improbable
-always
-% never
-rare
 consistent with
-% not
-doubtful
-suggestive
-diagnostic
+couple
+definitely
+effectively
+et cetera
+evidently
+few
+frequently
+generally
+guess
+guessed
+guesses
+hopefully
+in general
+in my mind
+in my opinion
+in my understanding
+in my view
 inconclusive
-apparent
-alleged
-allege
-a bit
+kind of
+largely
+look like
+looks like
+more or less
+necessarily
+occasionally
+perhaps
 presumable
+presumably
+pretty
+probability
+probable
+quite
+quite clearly
+roughly
+suppose
+supposed
+supposedly
+supposes
+surely
+virtually
